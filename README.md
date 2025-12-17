@@ -22,7 +22,8 @@ It includes:
 
 ## Technical Notes
 - Facial expressions are implemented using keyframed facial bones
-- Jaw movement is driven by script during dialogue playback and Keyframes
+- Jaw movement is driven by script during dialogue playback
+- Animator uses separate layers for facial expressions and talking
 - External APIs were intentionally avoided as per assignment scope
 
 ## How to Run
@@ -33,5 +34,5 @@ It includes:
 5. Click "Play Reaction" in the character scene
 
 ## Unity Version
-Unity 6.2 LTS 
+Unity 2022 LTS (or your version)
 
