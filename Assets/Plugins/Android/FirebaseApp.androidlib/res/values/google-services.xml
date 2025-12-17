@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1073108774238</string>
+  <string name="google_storage_bucket" translatable="false">kutumbassignment.firebasestorage.app</string>
+  <string name="project_id" translatable="false">kutumbassignment</string>
+  <string name="google_api_key" translatable="false">AIzaSyAUchwhQdp4bx3089XEAIj2mo6BlYzx0Ao</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUchwhQdp4bx3089XEAIj2mo6BlYzx0Ao</string>
+  <string name="google_app_id" translatable="false">1:1073108774238:android:5266dcce748542abfb33cf</string>
+  <string name="default_android_client_id" translatable="false">1073108774238-93cii4o099t16virn814pqne211vkcoc.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1073108774238-5fp071bou2jlobnks6rs86vi6bliu19j.apps.googleusercontent.com</string>
+</resources>
